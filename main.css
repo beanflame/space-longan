@@ -6,7 +6,9 @@
 body, html {
     padding: 3px 3px 3px 3px;
 
-    background-color: #D8DBE2;
+    /*background-color: #D8DBE2;*/
+    background-color: #B1ECB1;
+    
 
     font-family: Verdana, sans-serif;
     font-size: 11pt;
