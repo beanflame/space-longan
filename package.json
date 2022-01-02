@@ -10,8 +10,8 @@
   },
   "scripts": {
     "dev": "yarn serve",
-    "serve": "vuepress dev src",
-    "build": "vuepress build src",
+    "serve": "vuepress dev docs",
+    "build": "vuepress build docs",
     "sync": "node scripts/sync.js",
     "postinstall": "patch-package"
   },
