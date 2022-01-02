@@ -11,7 +11,7 @@
 </template>
 
 <script>
-// import sponsors from '@theme/data/patreon-sponsors.js'
+import sponsors from '@theme/data/patreon-sponsors.js'
 import SponsorImageLink from './SponsorImageLink'
 
 export default {
