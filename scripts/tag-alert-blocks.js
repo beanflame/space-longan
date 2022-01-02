@@ -17,6 +17,8 @@ function run(command) {
 
 const ALERT_BLOCK = /^\+\s*:::\s?(\w+)/m
 
+
+
 async function isUsingAlertBlock(base = 'origin/master') {
   const result = await run(`git diff --name-only ${base}`)
   const files = (

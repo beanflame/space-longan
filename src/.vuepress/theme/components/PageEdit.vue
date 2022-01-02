@@ -58,7 +58,8 @@ export default {
       const {
         repo,
         docsDir = '',
-        docsBranch = 'master',
+        // master 分支仓库
+        docsBranch = 'main',
         docsRepo = repo
       } = this.$site.themeConfig
 
