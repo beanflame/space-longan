@@ -80,7 +80,7 @@
 </template>
 
 <script>
-// import sponsors from '@theme/data/patreon-sponsors.js'
+import sponsors from '@theme/data/patreon-sponsors.js'
 import HomeActionLink from '@theme/components/ui/HomeActionLink.vue'
 import SocialIcon from '@theme/components/ui/SocialIcon.vue'
 import SpecialSponsors from '@theme/components/sponsors/SpecialSponsors.vue'
