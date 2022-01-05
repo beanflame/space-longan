@@ -7,6 +7,6 @@ sidebar: auto
 
 # OrangeCode
 
-OrangeCode 是2022年1月6日开始，一门免费开源的轻量级的编辑器，由 Space Longan 主导开发。
+OrangeCode 是2022年1月6日开始，一门免费开源的轻量级的代码编辑器，由 Space Longan 主导开发。
 
 
