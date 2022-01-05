@@ -59,7 +59,8 @@ module.exports = {
                 items: [
                     {text: 'XCache', link: '/devtool/XCache'},
                     {text: 'XTinder', link: '/devtool/XTinder'},
-                    {text: 'TFiber', link: '/devtool/TFiber'}
+                    {text: 'TFiber', link: '/devtool/TFiber'},
+                    {text: 'OrangeCode', link: '/devtool/OrangeCode'}
                 ]
             },
 
