@@ -2,7 +2,9 @@
 home: true
 heroImage: /space-longan-logo.svg
 heroText: Space Longan
-tagline: SpaceLongan 团队<br>我们编程爱好者，编写软件开发工具，越做越好。
+tagline: SpaceLongan 团队<br>我们团队都是编程爱好者，编写软件开发工具等，越做越好。
+
+
 
 
 
