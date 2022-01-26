@@ -68,7 +68,8 @@ module.exports = {
                 text: '开发文档',
                 link: '/devdoc/',
                 items: [
-                    {text: 'SpaceLonganRenderer', link: '/devdoc/SpaceLonganRenderer'}
+                    {text: 'SpaceLonganRenderer', link: '/devdoc/SpaceLonganRenderer'},
+                    {text: 'SpaceLonganRenderer', link: '/devdoc/SpaceLonganMirror'}
                 ]
             },
             {
