@@ -4,8 +4,8 @@ sidebar: auto
 ---
 
 # Space Longan Mirror / Longan Forge Gradle
-![Java](https://img.shields.io/badge/Java-1.8-informational)](http://openjdk.java.net/)
-![Discord](https://img.shields.io/discord/796913369177260052)](https://discord.gg/FmVPsapuEk)
+[![Java](https://img.shields.io/badge/Java-1.8-informational)](http://openjdk.java.net/)
+[![Discord](https://img.shields.io/discord/796913369177260052)](https://discord.gg/FmVPsapuEk)
 
 
 
