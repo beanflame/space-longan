@@ -19,7 +19,7 @@ sidebar: auto
 
 | 版本                                     | 时间       | 日志更新内容                                                | 下载 |
 |------------------------------------------|-----------|------------------------------------------------------------|-----|
-| longan-forge-src-1.7.10-0.1.7-2021-08-11 ★ | 2021-8-11 | 添加镜像站、支持改写镜像站                                 | ![★](https://github.com/space-longan/longan-forge-src/archive/refs/tags/1.7.10-0.1.7.zip) |
+| longan-forge-src-1.7.10-0.1.7-2021-08-11 ★ | 2021-8-11 | 添加镜像站、支持改写镜像站                                 | [★](https://github.com/space-longan/longan-forge-src/archive/refs/tags/1.7.10-0.1.7.zip) |
 
 
 
