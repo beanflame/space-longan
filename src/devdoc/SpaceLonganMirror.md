@@ -1,3 +1,8 @@
+---
+supportvue: true
+sidebar: auto
+---
+
 # Longan Forge Gradle / Space Longan Mirror
 [![Java](https://img.shields.io/badge/Java-1.8-informational)](http://openjdk.java.net/)
 [![Discord](https://img.shields.io/discord/796913369177260052)](https://discord.gg/FmVPsapuEk)
