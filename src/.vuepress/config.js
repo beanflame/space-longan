@@ -69,7 +69,7 @@ module.exports = {
                 link: '/devdoc/',
                 items: [
                     {text: 'SpaceLonganRenderer', link: '/devdoc/SpaceLonganRenderer'},
-                    {text: 'SpaceLonganRenderer', link: '/devdoc/SpaceLonganMirror'}
+                    {text: 'SpaceLonganMirror', link: '/devdoc/SpaceLonganMirror'}
                 ]
             },
             {
