@@ -1,5 +1,6 @@
 # Longan Forge Gradle / Space Longan Mirror
 [![Java](https://img.shields.io/badge/Java-1.8-informational)](http://openjdk.java.net/)
+[![Discord](https://img.shields.io/discord/796913369177260052)](https://discord.gg/FmVPsapuEk)
 ## 一、前言
 
 基于Gradle 7.0，Longan-Forge-Gradle-1.2，开发的LonganForge，使用了Aliyun的Maven储存库对比原来的ForgeMaven
