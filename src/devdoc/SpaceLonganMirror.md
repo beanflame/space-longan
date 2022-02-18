@@ -6,7 +6,9 @@ sidebar: auto
 # Space Longan Mirror / Longan Forge Gradle
 [![Java](https://img.shields.io/badge/Java-1.8-informational)](http://openjdk.java.net/)
 [![Discord](https://img.shields.io/discord/796913369177260052)](https://discord.gg/FmVPsapuEk)
-[![开黑啦]()](https://kaihei.co/J1avFf)
+[开黑啦](https://kaihei.co/J1avFf)
+[QQ群](https://jq.qq.com/?_wv=1027&k=K9KCdHI0)
+
 
 
 ## 一、前言
