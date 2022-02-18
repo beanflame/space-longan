@@ -27,7 +27,7 @@ actionButtons:
 features:
 
   - title: 开发工具
-    details: XCache、XTinder、TFiber、OrangeCode、LonganCode、
+    details: XCache、XTinder、TFiber、OrangeCode、LonganCode、VertexTextEditor
 
   - title: 渲染库
     details: SpaceLonganRenderer
