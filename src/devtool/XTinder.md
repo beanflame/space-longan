@@ -3,7 +3,7 @@ supportvue: true
 sidebar: auto
 ---
 
-<img src="/xtinder-logo.svg" width = "256" height = "256"/>
+<img src="/xtinder-logo.svg" width = "180" height = "180"/>
  
 # XTinder
 
