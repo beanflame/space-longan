@@ -16,6 +16,10 @@ XTinder 是 2022年1月1日开始，一门免费、开源、轻量级、跨平�
 在所有电脑平台（OSX、Windows 和 Linux）支持运行跑出来了
 
 
+<img src="https://sciter.com/wp-content/uploads/2015/09/key-features-crossplatform.png"/>
+
+
+
 # 下载
 
 | 操作系统               | 下载                  |
