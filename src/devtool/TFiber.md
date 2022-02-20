@@ -3,7 +3,7 @@ supportvue: true
 sidebar: auto
 ---
 
- <img src="/tfiber-logo.svg.svg" width = "256" height = "256"/>
+ <img src="/tfiber-logo.svg.svg" width = "180" height = "180"/>
 
 
 # TFiber
