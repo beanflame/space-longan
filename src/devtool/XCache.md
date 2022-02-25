@@ -11,9 +11,11 @@ sidebar: auto
 
 # XCache
 
+XCache 是 2021年12月24日开始，一门免费开源的轻量级的 C/C++ 跨平台集成开发环境，由 SpaceLongan 主导开发。
 
+打开文件速度快，并且稳定性良好，快速编写代码，支持多人在线编辑，插件，Git仓库。
 
-XCache 是2021年12月24日开始，一门免费开源的轻量级C/C++的IDE编辑器，由 Space Longan 主导开发， 支持多人在线编辑，支持插件，支持Git仓库系统，支持文件上传下载， XCache 的手感，XCache 现代界面方便化，XCache 启动得快一个又快又稳定， 使用 XCache IDE编辑器和直接使用 C/C++ 语言编写应用程序， 但是XCache更加容易，可以快速编写和维护。
+在所有主流电脑平台（OSX、Windows 和 Linux）都能支持运行。
 
 <img src="/xcache-imgs.png"/>
 
