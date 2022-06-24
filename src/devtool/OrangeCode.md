@@ -7,7 +7,7 @@ sidebar: auto
 
 # OrangeCode
 
-OrangeCode 是2022年1月6日开始，一门免费、开源、轻量级、跨平台、代码编辑器，内置 C++ 和 QT，由 SpaceLongan 主导开发。
+OrangeCode 是2022年1月6日开始，一门免费、开源、轻量级、跨平台、代码编辑器，内置 C++ 和 QT，由 SpaceLongan 、Lollipop-Studio 主导开发。
 
 打开文件速度快，并且稳定性良好，快速编写代码。
 
