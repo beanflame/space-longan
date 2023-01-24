@@ -46,7 +46,7 @@ features:
     details: 欢迎加入我们的交流群，小可爱们都等急啦    
 
 footer: |
-  Copyright © 2020 - 2022 Space Longan
+  Copyright © 2020 - 2023 Space Longan
 ---
 
 
