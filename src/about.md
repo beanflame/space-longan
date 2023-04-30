@@ -32,8 +32,6 @@ sidebar: auto
 
 豆焰的博客：[https://blog.beanflame.cn/](https://blog.beanflame.cn/)
 
-钛山的博客：[https://tysontan.com/](https://tysontan.com/)
-
 小熊猫Dev-C++：[https://royqh.net/devcpp/](https://royqh.net/devcpp/)
 
 Xmake：[https://xmake.io/](https://xmake.io/)
