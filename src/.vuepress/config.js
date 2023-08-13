@@ -50,7 +50,7 @@ module.exports = {
 
 
     themeConfig: {
-        logo: '/space-longan-logo.svg',
+        logo: '/RedFoxLongan.svg',
         nav: [
             {text: '官网', link: '/'},
             {
