@@ -1,6 +1,6 @@
 // 网站
 module.exports = {
-    title: 'Space Longan 官方网站',
+    title: 'RedFoxLongan 官方网站',
     description: 'The Official Website of Space Longan',
     locales: {
         '/': {
@@ -8,7 +8,7 @@ module.exports = {
         }
     },
     head: [
-        ['link', {rel: 'icon', href: '/space-longan-logo.svg'}],
+        ['link', {rel: 'icon', href: '/RedFoxLongan.svg'}],
         [
             'link',
             {
@@ -68,8 +68,8 @@ module.exports = {
                 text: '开发文档',
                 link: '/devdoc/',
                 items: [
-                    {text: 'SpaceLonganRenderer', link: '/devdoc/SpaceLonganRenderer'},
-                    {text: 'SpaceLonganMirror', link: '/devdoc/SpaceLonganMirror'}
+                    {text: 'RedFoxLonganRenderer', link: '/devdoc/SpaceLonganRenderer'},
+                    {text: 'RedFoxLonganMirror', link: '/devdoc/SpaceLonganMirror'}
                 ]
             },
             {
