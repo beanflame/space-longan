@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: /space-longan-logo.svg
-heroText: Space Longan
-tagline: SpaceLongan 团队<br>SpaceLongan 2周年！<br>我们团队都是编程爱好者，编写软件开发工具等。
+heroImage: /RedFoxLongan.svg
+heroText: RedFox Longan
+tagline: RedFox Longan 团队<br>SpaceLongan 2周年！<br>我们团队都是编程爱好者，编写软件开发工具等。
 
 
 
@@ -30,7 +30,7 @@ features:
     details: XCache、XTinder、TFiber、OrangeCode、LonganCode、VertexTextEditor
 
   - title: 渲染库
-    details: SpaceLonganRenderer
+    details: LonganRenderer
 
   - title: 其他
     details: |
