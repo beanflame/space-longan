@@ -2,7 +2,7 @@
 home: true
 heroImage: /RedFoxLongan.svg
 heroText: RedFoxLongan
-tagline: RedFoxLongan 团队2周年！<br>我们团队都是编程爱好者，编写软件开发工具等。
+tagline: RedFoxLongan 团队 2周年！<br>我们团队都是编程爱好者，编写软件开发工具等。
 
 
 
