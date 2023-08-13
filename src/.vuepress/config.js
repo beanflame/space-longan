@@ -1,7 +1,7 @@
 // 网站
 module.exports = {
     title: 'RedFoxLongan 官方网站',
-    description: 'The Official Website of Space Longan',
+    description: 'The Official Website of RedFoxLongan',
     locales: {
         '/': {
             lang: 'zh-CN'
