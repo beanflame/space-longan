@@ -2,7 +2,7 @@
 home: true
 heroImage: /RedFoxLongan.svg
 heroText: RedFoxLongan
-tagline: RedFoxLongan 团队<br>2周年！<br>我们团队都是编程爱好者，编写软件开发工具等。
+tagline: RedFoxLongan 团队2周年！<br>我们团队都是编程爱好者，编写软件开发工具等。
 
 
 
@@ -46,7 +46,7 @@ features:
     details: 欢迎加入我们的交流群，小可爱们都等急啦    
 
 footer: |
-  Copyright © 2020 - 2023 SpaceLongan
+  Copyright © 2020 - 2023 RedFoxLongan
 ---
 
 
