@@ -29,8 +29,8 @@ features:
   - title: 开发工具
     details: XCache、XTinder、TFiber、OrangeCode、LonganCode、VertexTextEditor
 
-  - title: 渲染库
-    details: LonganRenderer
+  - title: 渲染/引擎
+    details: LonganRenderer、AenoEngine
 
   - title: 其他
     details: |
