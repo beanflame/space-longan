@@ -9,3 +9,11 @@
 [[redirects]]
   from = "/guide/writing-guide.html"
   to = "/guide/contributing/writing-guide.html"
+
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[build]
+  publish = ".vitepress/dist"
+  command = "pnpm run build"
